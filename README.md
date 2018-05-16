@@ -1,8 +1,8 @@
-# BENCH-LICENSE
+# BENCH LICENSE
 Blockchain-Based Software License - Derived From the MIT and ISC Licenses. 
 
 
-## Standard BENCH LICENSE
+## Standard `BENCH LICENSE`
 ```
 BENCH LICENSE
 For BenchChain-Terraform
@@ -52,9 +52,9 @@ WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION,
 ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 ```
 
-## Why BENCH LICENSE?
+## Why `BENCH LICENSE`?
 Any Bench-related software shouldn't be used to break or violate United States law specifically or any laws in other countries. At Bench, we strive to not only create a new way of creating `Robotic Organizations` otherwise known as `Decentralized Autonomous Organizations` (DAOs), where cryptocurrencies aka digital assets are held by a Robotic Mechanism and distributed to users when they have earned those coins by either working for the robot through the submission of data across its network or through the sell of products through a `Robotic Marketplace`.  On the other hand, we do not want Bench-related software to be used to distribute cryptocurrencies aka digital assets through methods like ICOs, AirDrops or otherwise. Thanks to the way cryptocurrencies aka digital assets are created on BenchCore-related networks and the way BenchCore-related accounts are generated, it is already a difficult process to do an airdrop although, we realize that it's not enough to stop developers from doing what we have otherwise prohibited. 
 
-## Can I Use The BENCH LICENSE In My Software?
+## Can I Use The `BENCH LICENSE` In My Software?
 We welcome anybody in the blockchain industry to focus on a new way of utilizing decentralized technologies to create income for their companies, other than the current methods that ultimately create securities violations. There is a lot of things we can created with distributed databases and AI-based software and now is the time to start building those things, without putting developers and others at risk of going to jail or breaking any laws in the process. The BENCH LICENSE is free to use and is considered a permissive free software license originating at Bench Computer, Inc., in order for Bench Computer, Inc to stay out of the way of legal issues within the United States as well as issues that are indirectly created through the usage of any Bench-related software due to the open source nature of a majority of the software released under our brand. 
 
